@@ -1,19 +1,21 @@
 en:
   company:
     "2013":
-      title: 2013 company
+      title: 2013 performance
       kpis: Year 1 investor KPIs
       tips:
         kpis: "Percentage completion against reach, engagement, and influence targets defined by investors at the point of investment"
     "2014":
-      title: 2014 company
+      title: 2014 performance
+    "2015":
+      title: 2015 performance
     all:
-      title: Lifetime company
+      title: Lifetime impact
     reach: People reached
     value: Value unlocked
-    network: Network size
+    network: Global network
     training: People trained
-    bookings: Bookings
+    bookings: Sales
     odcs: Open data certificates
     members: Members
     commercial_bookings: Commercial bookings
@@ -50,7 +52,7 @@ en:
       startups: "Total *new* Startups in this year against target"
   opex:
     "2014":
-      title: 2014 opex
+      title: 2014 OpEx
     income: Income
     costs: Total costs
     headcount: Headcount
